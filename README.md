@@ -10,7 +10,7 @@ AI Application
 Computer Vision Applications
 1. Animal counting and species detection https://www.youtube.com/watch?v=Rer9C7LuRQY
 2. Identify crop diseases  https://www.youtube.com/watch?v=90SY5wAZdbc
-3. 
+3. Waste Management and Recycling  https://www.youtube.com/watch?v=ppHVJ_vVqtg
 
 
 Emerging AI+X Landscape
