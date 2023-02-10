@@ -38,6 +38,12 @@ Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
 1. Education
   - Riiid https://riiid.com/careers  - https://www.youtube.com/watch?v=juwGbfI8GBY
-3. Healthcare
-4. Manufacturing
-5. 
+2. Healthcare
+  - VUNO
+  - 
+3. Manufacturing
+  - LAON PEOPLE
+  - 
+4. AI Data Infrastructure
+  - croudworks https://crowdworks.notion.site/ALL-ABOUT-695fc080139e439ea94ad01bb8e6565d  - https://www.youtube.com/watch?v=UCJuDQGHcqE&t=60s
+  - 
