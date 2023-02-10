@@ -18,6 +18,11 @@ NLP(Natural Language Processing) Applications
 3. Grammar and spelling correction: Grammarly  https://www.youtube.com/watch?v=H53JSXPXPxI
 4. Writes and summarizes meeting notes: Otter.ai https://www.youtube.com/watch?v=dYW7C7cd0B4
 
+Statistical Data Application
+1. Weather Prediction https://www.youtube.com/watch?v=fdErsR8_NaU
+2. Emergency response: COVID-19 vaccination  https://covid19.who.int/?mapFilter=vaccinations
+3. Increased tourism https://www.youtube.com/watch?v=c3Zdif9tmx8
+
 Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
 1. Education
