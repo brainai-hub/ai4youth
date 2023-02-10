@@ -12,6 +12,9 @@ Computer Vision Applications
 2. Identify crop diseases  https://www.youtube.com/watch?v=90SY5wAZdbc
 3. Waste Management and Recycling  https://www.youtube.com/watch?v=ppHVJ_vVqtg
 
+NLP(Natural Language Processing) Applications
+1. Autocomplete and Text prediction  https://www.youtube.com/watch?v=5DSfFDdybzg&t=5s
+2. 
 
 Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
