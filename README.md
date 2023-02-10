@@ -1,5 +1,16 @@
 # ai4youth
 
+UN SDGs
+1. Sustainable Development Goals https://www.youtube.com/watch?v=0XTBYMfZyrM
+2. THE 17 GOALS | Sustainable Develpment https://sdgs.un.org/goals
+3. SDG wedding cake https://www.youtube.com/watch?v=dcvz6Fv8DqU
+Systems Thinking 
+1. Cats in Boreneo https://www.youtube.com/watch?v=17BP9n6g1F0
+2. A tool for thinking in systems https://ncase.me/loopy/
+3. Coral Reefs https://www.youtube.com/watch?v=ZiULxLLP32s
+4. Coreal Bleaching https://oceanservice.noaa.gov/facts/coral_bleach.html     https://climatekids.nasa.gov/coral-bleaching/
+5. 
+
 AI Application
 1. Self-Driving(Driverless Cars)
 2. AI Assisted Fitness App
