@@ -14,7 +14,8 @@ Computer Vision Applications
 
 NLP(Natural Language Processing) Applications
 1. Autocomplete and Text prediction  https://www.youtube.com/watch?v=5DSfFDdybzg&t=5s
-2. 
+2. Digital Assistants  https://www.youtube.com/watch?v=rkKSb5wAstg
+
 
 Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
