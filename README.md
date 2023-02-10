@@ -15,7 +15,8 @@ Computer Vision Applications
 NLP(Natural Language Processing) Applications
 1. Autocomplete and Text prediction  https://www.youtube.com/watch?v=5DSfFDdybzg&t=5s
 2. Digital Assistants  https://www.youtube.com/watch?v=rkKSb5wAstg
-
+3. Grammar and spelling correction: Grammarly  https://www.youtube.com/watch?v=H53JSXPXPxI
+4. Writes and summarizes meeting notes: Otter.ai https://www.youtube.com/watch?v=dYW7C7cd0B4
 
 Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
