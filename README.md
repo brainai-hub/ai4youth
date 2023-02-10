@@ -37,6 +37,7 @@ Statistical Data Application
 Emerging AI+X Landscape
 https://ailandscape.net:447/index.asp
 1. Education
-2. Healthcare
-3. Manufacturing
-4. 
+  - Riiid https://riiid.com/careers  - https://www.youtube.com/watch?v=juwGbfI8GBY
+3. Healthcare
+4. Manufacturing
+5. 
