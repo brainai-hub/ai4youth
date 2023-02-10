@@ -7,6 +7,10 @@ AI Application
 4. AI in Art: Arbitrary Style Transfer in the Browser https://reiinakano.com/arbitrary-image-stylization-tfjs/ 
 5. AI in Sport: https://www.v7labs.com/blog/ai-in-sports
 
+Computer Vision Applications
+1. Animal counting and species detection https://www.youtube.com/watch?v=Rer9C7LuRQY
+2. Identify crop diseases  https://www.youtube.com/watch?v=90SY5wAZdbc
+3. 
 
 
 Emerging AI+X Landscape
