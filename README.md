@@ -47,3 +47,22 @@ https://ailandscape.net:447/index.asp
 4. AI Data Infrastructure
   - croudworks https://crowdworks.notion.site/ALL-ABOUT-695fc080139e439ea94ad01bb8e6565d  - https://www.youtube.com/watch?v=UCJuDQGHcqE&t=60s
   - 
+
+
+Differenct methods to acquire data
+1. Open dataset
+  - Cityscapes https://www.cityscapes-dataset.com/
+  - ImageNet  https://image-net.org/index.php
+2. Custome dataset: You can collect data manually from different sources like using your own camera.
+  - Image data
+  - Video data
+  - Hybrid data: a combination of image and video data
+  
+Image Annotation
+1. Segmentation
+2. Bounding Box Annotation
+3. 3D Cuboid Annotation
+4. Landmark Annotation
+5. Text Annotation
+6. Polygon Annotation
+
