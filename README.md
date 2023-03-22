@@ -5,11 +5,11 @@ UN SDGs
 2. THE 17 GOALS | Sustainable Develpment https://sdgs.un.org/goals
 3. SDG wedding cake https://www.youtube.com/watch?v=dcvz6Fv8DqU
 Systems Thinking 
-1. Cats in Boreneo https://www.youtube.com/watch?v=17BP9n6g1F0
-2. A tool for thinking in systems https://ncase.me/loopy/
-3. Coral Reefs https://www.youtube.com/watch?v=ZiULxLLP32s
-4. Coreal Bleaching https://oceanservice.noaa.gov/facts/coral_bleach.html     https://climatekids.nasa.gov/coral-bleaching/
-5. 
+4. Cats in Boreneo https://www.youtube.com/watch?v=17BP9n6g1F0
+5. A tool for thinking in systems https://ncase.me/loopy/
+6. Coral Reefs https://www.youtube.com/watch?v=ZiULxLLP32s
+7. Coreal Bleaching https://oceanservice.noaa.gov/facts/coral_bleach.html     
+8. https://climatekids.nasa.gov/coral-bleaching/
 
 AI Application
 1. Self-Driving(Driverless Cars)
@@ -66,3 +66,5 @@ Image Annotation
 5. Text Annotation
 6. Polygon Annotation
 
+Class 9 Artificial Intelligence New Session 2022-23 Complete CBSE Course which has been based on NCERT/CBSE course and has been taught by Vardan Sir topic wise!
+- https://www.youtube.com/playlist?list=PLVLoWQFkZbhVrc2XEyxrkyzQ7HbzkBA3L
